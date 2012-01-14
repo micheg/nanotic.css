@@ -1,0 +1,74 @@
+/* simple reset */
+*
+{
+    vertical-align: baseline;
+    font-weight: inherit;
+    font-family: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    border: 0 none;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+}
+/* Header with footer always on bottom */
+html, body { height:100%; }
+#container
+{
+    min-height:100%;
+    position:relative;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#body 
+{
+    padding-bottom:30px;
+    width: 960px; margin:0 auto;
+    font-size:12px;
+    line-height: 18px;
+}
+#footer
+{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:30px;
+}
+/* column */
+div.col { float: left; }
+div.gutter { margin-right: 12px; }
+div.width1 { width: 150px; } 
+div.width2 { width: 312px; } 
+div.width3 { width: 474px; } 
+div.width4 { width: 636px; } 
+div.width5 { width: 798px; } 
+div.width6 { width: 960px; } 
+div.clear  { clear: left; }
+/* form */
+input, textarea, select
+{
+    background-color: #D7E5F2;      
+    width: 100%;
+    border: 1px solid #284279;      
+}  
+form
+{
+    padding: 5px;  
+    text-align: right;    
+}
+form table
+{
+    background-color: #F9FBFD;    
+    color: #000000;    
+    width: 100%;    
+    border-collapse: collapse;    
+} 
+form table, form td
+{
+    border: 1px solid #D7E5F2;
+    vertical-align: top
+} 
+form td, input.button
+{
+    padding: 0px 5px 0px 5px;
+    width: auto;
+}
