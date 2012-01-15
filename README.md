@@ -7,4 +7,4 @@ See template.html for more info.
 
 [demo clean](http://micheg.altervista.org/demo/)
 
-[demo with same style](http://micheg.altervista.org/demo1/)
+[demo with a bit of style](http://micheg.altervista.org/demo1/)
