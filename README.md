@@ -1,9 +1,10 @@
-Nonotic.css
+remNonotic.css
 -----------
 
 Minimal CSS Reset with grid, form, header and footer always on bottom.
-Minified and gzipped 468 byte ;-)
+Minified and gzipped 467 byte ;-)
+See template.html for more info.
 
-[demo clean:](http://micheg.altervista.org/demo/)
+[demo clean](http://micheg.altervista.org/demo/)
 
-[demo with same css:](http://micheg.altervista.org/demo1/)
+[demo with same style](http://micheg.altervista.org/demo1/)
