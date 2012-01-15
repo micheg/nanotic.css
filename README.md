@@ -1,4 +1,4 @@
-remNonotic.css
+nano.css
 -----------
 
 Minimal CSS Reset with grid, form, header and footer always on bottom.
